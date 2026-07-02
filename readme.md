@@ -79,7 +79,7 @@ Silah modeli sahnenin ortasında, koyu mavi radyal gradient arka plan önünde s
 
 #### Aura Efekti — Shader Graph (Çift Katmanlı UV Scroll)
 
-Silahın etrafına sarılmış 7 adet şerit (strip) mesh, Blender'da bezier eğrilerinden modellenerek UV açılmıştır. U ekseni şerit uzunluğu boyunca, V ekseni şerit genişliği boyunca haritalanmıştır.
+Silahın etrafına sarılmış 7 çift şerit (strip) mesh, Blender'da bezier eğrilerinden modellenerek UV açılmıştır. U ekseni şerit uzunluğu boyunca, V ekseni şerit genişliği boyunca haritalanmıştır.
 
 Tek bir Shader Graph üzerinde iki katmanlı UV scroll sistemi kurulmuştur:
 
