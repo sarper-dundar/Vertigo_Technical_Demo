@@ -29,7 +29,7 @@
 /[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
-/[Rr]ecordings/
+# /[Rr]ecordings/  (included intentionally — demo video captures)
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -105,3 +105,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Claude Code project context
+CLAUDE.md
